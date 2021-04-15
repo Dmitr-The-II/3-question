@@ -1,0 +1,3 @@
+﻿  menu.c
+C:\Users\dikim\source\repos\final-question3\menu.c(9,6): warning C4101: 'count': unreferenced local variable
+  final-question3.vcxproj -> C:\Users\dikim\source\repos\final-question3\Debug\final-question3.exe
