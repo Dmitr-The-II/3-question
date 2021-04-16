@@ -25,7 +25,7 @@ int main(void) {
 	
 		printf("Select one of the following options :\n0 - Exit\n1 - Show users by call duration\n2 - Show users by data usage\n3 - Show users by screen time\n4 - Show all user data\n");
 		
-		while (a == 0) {
+		/*while (a == 0) {
 			scanf("%d", &choice);
 			switch (choice) {
 			case 1:
@@ -43,7 +43,7 @@ int main(void) {
 			}
 
 
-		}
+		}*/
 		printf("\nGoodbye.\n");
 		
 }
